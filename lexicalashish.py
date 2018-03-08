@@ -1,7 +1,7 @@
 import re
 #Load data
-cfile2=open('TicTacToe4.c','r')
-cfile=open('binaryconvert.c','r')
+cfile=open('C:/Users/deept/Desktop/College Stuff/1st Year/TicTacToe4.c','r')
+#cfile=open('binaryconvert.c','r')
 #List of tokens, keywords
 keywordS="auto break case char const continue default do double else enum extern float for goto if int long register return short sign sizeof static struct switch typedef union unsigned void volatile while"
 keyword=keywordS.split(' ')
